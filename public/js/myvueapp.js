@@ -1,5 +1,6 @@
 /*
 Aplicatia Vue pentru pagina web
+
 */
 
 var vue_app = new Vue({ 
