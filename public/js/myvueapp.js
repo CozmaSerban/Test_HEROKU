@@ -20,7 +20,7 @@ var vue_app = new Vue({
         /*
         Varaibile locale si variabile initiale
         */
-        backendServerUrl : "https://voca-bck.herokuapp.com/:3000/api/",
+        backendServerUrl : "https://voca-bck.herokuapp.com:3000/api/",
         erroreMessage : "Default Errore",
         /*
         Ce modals sunt afisate
